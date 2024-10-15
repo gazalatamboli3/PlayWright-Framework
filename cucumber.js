@@ -6,4 +6,4 @@ module.exports = {
       //features: ['./features/Ecommerce.feature']
       paths: ['./features/*.feature']
     }
-  };
+  }; test
